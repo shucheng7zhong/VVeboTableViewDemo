@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>12995AE0-5566-4045-ABFB-709B82863ABB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12995AE0-5566-4045-ABFB-709B82863ABB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644143148.443802</real>
+			<key>timeStoppedRecording</key>
+			<real>644143148.49315703</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>12995AE0-5566-4045-ABFB-709B82863ABB</string>
+		</dict>
+		<key>3AD3249C-3ED0-4E61-97EF-155C82A81D97</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3AD3249C-3ED0-4E61-97EF-155C82A81D97.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644143110.89404798</real>
+			<key>timeStoppedRecording</key>
+			<real>644143110.93946898</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>3AD3249C-3ED0-4E61-97EF-155C82A81D97</string>
+		</dict>
+		<key>59BBCA28-F0A7-4DB2-874A-AAEBF5F8C575</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59BBCA28-F0A7-4DB2-874A-AAEBF5F8C575.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644143160.83708704</real>
+			<key>timeStoppedRecording</key>
+			<real>644143160.88009501</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>59BBCA28-F0A7-4DB2-874A-AAEBF5F8C575</string>
+		</dict>
+		<key>77407236-00A8-49A8-913A-56D762705252</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77407236-00A8-49A8-913A-56D762705252.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644144263.89129496</real>
+			<key>timeStoppedRecording</key>
+			<real>644144264.08612299</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>77407236-00A8-49A8-913A-56D762705252</string>
+		</dict>
+		<key>7C57BDB4-CA28-4EA1-864D-FE3E6655C14E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C57BDB4-CA28-4EA1-864D-FE3E6655C14E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644144285.53782797</real>
+			<key>timeStoppedRecording</key>
+			<real>644144285.582443</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>7C57BDB4-CA28-4EA1-864D-FE3E6655C14E</string>
+		</dict>
+		<key>9AABBBBB-D431-40AA-B477-9B806D3D9E79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9AABBBBB-D431-40AA-B477-9B806D3D9E79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644143099.58687401</real>
+			<key>timeStoppedRecording</key>
+			<real>644143099.66377294</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>9AABBBBB-D431-40AA-B477-9B806D3D9E79</string>
+		</dict>
+		<key>F3625BCF-B1BE-4501-B89F-89B21A5F4DFE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3625BCF-B1BE-4501-B89F-89B21A5F4DFE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>VVeboTableViewDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VVeboTableViewDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>timeStartedRecording</key>
+			<real>644142993.83285403</real>
+			<key>timeStoppedRecording</key>
+			<real>644143004.35239506</real>
+			<key>title</key>
+			<string>Build VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>F3625BCF-B1BE-4501-B89F-89B21A5F4DFE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

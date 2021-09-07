@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5B5DD97F-3C37-418E-A088-96494C6CEF1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5B5DD97F-3C37-418E-A088-96494C6CEF1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>VVeboTableViewDemo-briegnecfnifgsgagwoauaxtzhnd</string>
+			<key>timeStartedRecording</key>
+			<real>644144285.57511497</real>
+			<key>timeStoppedRecording</key>
+			<real>644144285.57540405</real>
+			<key>title</key>
+			<string>Build target VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>5B5DD97F-3C37-418E-A088-96494C6CEF1E</string>
+		</dict>
+		<key>F310B8E8-B40E-4D81-99C7-1F9E36EA5B75</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F310B8E8-B40E-4D81-99C7-1F9E36EA5B75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>signature</key>
+			<string>VVeboTableViewDemo-briegnecfnifgsgagwoauaxtzhnd</string>
+			<key>timeStartedRecording</key>
+			<real>644143160.87270403</real>
+			<key>timeStoppedRecording</key>
+			<real>644143160.87284398</real>
+			<key>title</key>
+			<string>Build target VVeboTableViewDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>F310B8E8-B40E-4D81-99C7-1F9E36EA5B75</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
